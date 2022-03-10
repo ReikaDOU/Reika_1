@@ -36,3 +36,30 @@ Github网站<br>666.
     * old school
 * 篮球
 
+## 表格效果
+游戏名|价格|排行
+--|:--:|--:
+csgo|98|1
+nba2k 22|199|2
+lol|0|3
+
+## 插入代码片段
+
+```c
+  #include <stdio.h>
+  #include <stdlib.h>
+  //c语言代码
+  int mian(void)
+  {
+  	printf("nihaonb\n");
+	return 0;
+  }
+```
+```cpp
+  #include <iostream>
+  using namespace std;
+  int main(void)
+  {
+  	cout<<"nb"<<endl;
+  }
+```
